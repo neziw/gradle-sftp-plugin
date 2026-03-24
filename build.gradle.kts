@@ -32,5 +32,5 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.mwiede:jsch:2.27.7")
+    implementation("com.github.mwiede:jsch:2.27.9")
 }
